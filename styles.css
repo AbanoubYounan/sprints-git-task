@@ -11,3 +11,10 @@
     align-items: center;
     justify-content: center;
 }
+
+.hero-section h1{
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+}
